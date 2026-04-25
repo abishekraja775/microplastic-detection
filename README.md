@@ -24,7 +24,7 @@ Object detection model for underwater microplastic detection using SSDLite with 
 7. Detect:
    python detect.py
 
-   ## Datasets
+## Datasets
 
 Download all 4 datasets from Roboflow in COCO JSON format and extract them as follows:
 
