@@ -8,8 +8,8 @@
 
 ## 👥 Team Members
 
-| Name | Role |
-|---|---|
+| Name |
+|---|
 | Abishek Raja A |
 | Lakshman Aadithya R K |
 | Sree Sowmi A |
