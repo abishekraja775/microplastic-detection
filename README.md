@@ -10,9 +10,9 @@
 
 | Name | Role |
 |---|---|
-| Abishek Raja A | AI / ML — Detection Pipeline, Model Training, Sensor Integration Design |
-| Lakshman Aadithya R K | Systems Architecture, AUV Design, Mechanical Integration |
-| Sree Sowmi A | Research, Problem Framing, Environmental Analysis |
+| Abishek Raja A |
+| Lakshman Aadithya R K |
+| Sree Sowmi A |
 
 ---
 
@@ -37,7 +37,7 @@ This is the first proposed single-platform solution combining **real-time in-sit
 As part of this project, we trained and deployed a real object detection model demonstrating the computer vision layer of the system.
 
 ### Model
-- **Architecture:** SSDLite with MobileNetV3 Large backbone
+- **Architecture:** SSDLite with MobileNetV3
 - **Framework:** PyTorch 2.8
 - **Task:** Detect and classify microplastic particles in images
 - **Classes:** `plastic`, `organic`
@@ -179,7 +179,7 @@ For each: click **Use this Dataset** → **Fork Dataset** → download in **COCO
 
 ### Step 1 — Clone the repo
 ```bash
-git clone https://github.com/YOURUSERNAME/microplastic-detection.git
+git clone https://github.com/abishekraja775/microplastic-detection.git
 cd microplastic-detection
 ```
 
